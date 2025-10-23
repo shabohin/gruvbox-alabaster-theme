@@ -1,7 +1,7 @@
 {
-  "name": "onedark-alabaster-theme",
-  "displayName": "OneDark Alabaster",
-  "description": "OneDark Pro Flat UI with Alabaster minimal syntax highlighting",
+  "name": "gruvbox-alabaster-theme",
+  "displayName": "Gruvbox Alabaster",
+  "description": "Gruvbox Dark Pale colors with Alabaster minimal syntax highlighting",
   "version": "1.0.0",
   "publisher": "yourname",
   "engines": {
@@ -13,16 +13,16 @@
   "contributes": {
     "themes": [
       {
-        "label": "OneDark Alabaster",
+        "label": "Gruvbox Alabaster",
         "uiTheme": "vs-dark",
-        "path": "./themes/onedark-alabaster.json"
+        "path": "./themes/gruvbox-alabaster.json"
       }
     ]
   },
   "keywords": [
     "theme",
     "dark",
-    "onedark",
+    "gruvbox",
     "alabaster",
     "minimal"
   ],

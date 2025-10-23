@@ -1,6 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "OneDark Alabaster",
+    "name": "Gruvbox Alabaster",
     "type": "dark",
     "tokenColors": [
         {
