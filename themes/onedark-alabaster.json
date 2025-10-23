@@ -17,17 +17,17 @@
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#E5C07B"
       }
     },
     {
-      "name": "Comments - BRIGHT (Alabaster principle)",
+      "name": "Comments - dimmed gray",
       "scope": [
         "comment",
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#E5C07B"
+        "foreground": "#5C6370"
       }
     },
     {
@@ -64,7 +64,7 @@
         "constant.language"
       ],
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#D19A66"
       }
     },
     {
