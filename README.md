@@ -49,22 +49,22 @@ ln -s ~/Develop/gruvbox-alabaster-theme ~/.vscode/extensions/gruvbox-alabaster-t
 
 ### Gruvbox Dark Pale
 
-- `#262626` Background (darkest)
-- `#3a3a3a` Background -
-- `#4e4e4e` Background --
-- `#8a8a8a` Foreground -
-- `#949494` Foreground +
-- `#dab997` Foreground ++
-- `#d5c4a1` Foreground +++
-- `#ebdbb2` Foreground (brightest)
-- `#d75f5f` Red
-- `#ff8700` Orange
-- `#ffaf00` Yellow
-- `#afaf00` Green
-- `#85ad85` Aqua/Cyan
-- `#83adad` Blue
-- `#d485ad` Purple
-- `#d65d0e` Brown
+-   ![#262626](https://placehold.co/16x16/262626/262626.png) `#262626` Background (darkest)
+-   ![#3a3a3a](https://placehold.co/16x16/3a3a3a/3a3a3a.png) `#3a3a3a` Background -
+-   ![#4e4e4e](https://placehold.co/16x16/4e4e4e/4e4e4e.png) `#4e4e4e` Background --
+-   ![#8a8a8a](https://placehold.co/16x16/8a8a8a/8a8a8a.png) `#8a8a8a` Foreground -
+-   ![#949494](https://placehold.co/16x16/949494/949494.png) `#949494` Foreground +
+-   ![#dab997](https://placehold.co/16x16/dab997/dab997.png) `#dab997` Foreground ++
+-   ![#d5c4a1](https://placehold.co/16x16/d5c4a1/d5c4a1.png) `#d5c4a1` Foreground +++
+-   ![#ebdbb2](https://placehold.co/16x16/ebdbb2/ebdbb2.png) `#ebdbb2` Foreground (brightest)
+-   ![#d75f5f](https://placehold.co/16x16/d75f5f/d75f5f.png) `#d75f5f` Red
+-   ![#ff8700](https://placehold.co/16x16/ff8700/ff8700.png) `#ff8700` Orange
+-   ![#ffaf00](https://placehold.co/16x16/ffaf00/ffaf00.png) `#ffaf00` Yellow
+-   ![#afaf00](https://placehold.co/16x16/afaf00/afaf00.png) `#afaf00` Green
+-   ![#85ad85](https://placehold.co/16x16/85ad85/85ad85.png) `#85ad85` Aqua/Cyan
+-   ![#83adad](https://placehold.co/16x16/83adad/83adad.png) `#83adad` Blue
+-   ![#d485ad](https://placehold.co/16x16/d485ad/d485ad.png) `#d485ad` Purple
+-   ![#d65d0e](https://placehold.co/16x16/d65d0e/d65d0e.png) `#d65d0e` Brown
 
 ## Credits
 
