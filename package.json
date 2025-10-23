@@ -3,7 +3,19 @@
   "displayName": "Gruvbox Alabaster",
   "description": "Gruvbox Dark Pale colors with Alabaster minimal syntax highlighting",
   "version": "1.0.0",
-  "publisher": "yourname",
+  "publisher": "shabohin",
+  "author": {
+    "name": "Roman Shabohin",
+    "url": "https://github.com/shabohin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shabohin/gruvbox-alabaster-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/shabohin/gruvbox-alabaster-theme/issues"
+  },
+  "homepage": "https://github.com/shabohin/gruvbox-alabaster-theme#readme",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -24,7 +36,14 @@
     "dark",
     "gruvbox",
     "alabaster",
-    "minimal"
+    "minimal",
+    "warm",
+    "retro"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#262626",
+    "theme": "dark"
+  },
+  "icon": "icon.png"
 }
