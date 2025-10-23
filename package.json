@@ -1,0 +1,30 @@
+{
+  "name": "onedark-alabaster-theme",
+  "displayName": "OneDark Alabaster",
+  "description": "OneDark Pro Flat UI with Alabaster minimal syntax highlighting",
+  "version": "1.0.0",
+  "publisher": "yourname",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "OneDark Alabaster",
+        "uiTheme": "vs-dark",
+        "path": "./themes/onedark-alabaster.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "onedark",
+    "alabaster",
+    "minimal"
+  ],
+  "license": "MIT"
+}

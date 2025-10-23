@@ -1,0 +1,5 @@
+source-onedark/
+source-alabaster/
+node_modules/
+*.vsix
+.DS_Store
