@@ -49,24 +49,22 @@ ln -s ~/Develop/gruvbox-alabaster-theme ~/.vscode/extensions/gruvbox-alabaster-t
 
 ### Gruvbox Dark Pale
 
-```
-#262626  ██████  Background (darkest)
-#3a3a3a  ██████  Background -
-#4e4e4e  ██████  Background --
-#8a8a8a  ██████  Foreground -
-#949494  ██████  Foreground +
-#dab997  ██████  Foreground ++
-#d5c4a1  ██████  Foreground +++
-#ebdbb2  ██████  Foreground (brightest)
-#d75f5f  ██████  Red
-#ff8700  ██████  Orange
-#ffaf00  ██████  Yellow
-#afaf00  ██████  Green
-#85ad85  ██████  Aqua/Cyan
-#83adad  ██████  Blue
-#d485ad  ██████  Purple
-#d65d0e  ██████  Brown
-```
+- `#262626` Background (darkest)
+- `#3a3a3a` Background -
+- `#4e4e4e` Background --
+- `#8a8a8a` Foreground -
+- `#949494` Foreground +
+- `#dab997` Foreground ++
+- `#d5c4a1` Foreground +++
+- `#ebdbb2` Foreground (brightest)
+- `#d75f5f` Red
+- `#ff8700` Orange
+- `#ffaf00` Yellow
+- `#afaf00` Green
+- `#85ad85` Aqua/Cyan
+- `#83adad` Blue
+- `#d485ad` Purple
+- `#d65d0e` Brown
 
 ## Credits
 
